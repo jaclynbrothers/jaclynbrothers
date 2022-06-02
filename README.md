@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jaclyn Brothers</h1>
 <h3 align="center">A full stack software engineer from Arizona</h3>
 
-- 🔭 I’m currently working on **edtech projects**
+- 🔭 I’m currently working on edtech projects
 
-- 🌱 I’m interested in **backend development, cloud systems, and quality assurance**
+- 🌱 I’m interested in backend development, cloud systems, and quality assurance
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on open source projects
 
 - 👨‍💻 All of my projects are available at: [https://jaclynbrothers.netlify.app/](https://jaclynbrothers.netlify.app/)
 
-- 📫 How to reach me: **https://twitter.com/JaclynBrothers**
+- 📫 How to reach me: https://twitter.com/JaclynBrothers
 
 - ⚡ Fun fact: When I am not programming, I enjoy being out in nature, listening to music, and watching NBA games
 
