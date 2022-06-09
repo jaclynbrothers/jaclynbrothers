@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaclyn Brothers</h1>
 <h3 align="center">A full stack software engineer from Arizona</h3>
 
-- 🔭 I’m currently working on edtech projects
+- 🔭 I’m currently working on full stack web applications
 
-- 🌱 I’m interested in backend development, cloud systems, and quality assurance
+- 🌱 I’m interested in backend development, cloud systems, and software testing
 
 - 👯 I’m looking to collaborate on open source projects
 
