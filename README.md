@@ -13,51 +13,51 @@
 
 - ⚡ Fun fact: When I am not programming, I enjoy being out in nature, listening to music, and watching NBA games
 
-<!-- <br> -->
+<br>
 
-<!-- <h1 align="center">Projects</h1>
+<h1 align="center">Latest Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Coming Soon</h3>
-        <br />
-        <a target="_blank" href="#">
-            <img src="#" width="100%" alt="#/>
+      <h3 align="center">Portfolio</h3>
+        <br>
+        <a target="_blank" href="https://jaclynbrothers.netlify.app/">
+            <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="Portfolio Layout"/>
         </a>
-        <br />
+        <br>
+        <p align="center">
+          
+  <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="https://jaclynbrothers.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964"/>
+  </a>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
+    </td>
+    
+<!--     <td width="50%" valign="top">
+      <h3 align="center">Coming Soon</h3>
+        <br>
+      <a target="_blank" href="#">
+            <img src="#" width="100%"  alt="#">
+        </a>
+        <br>
         <p align="center">
           
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=4C5C96"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
-        <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
-    </td>
+        <p><strong></strong> Coming Soon</p>
+    </td> -->
   </tr>
   
-  <tr>
+<!--   <tr>
     <td width="50%" valign="top">
       <h3 align="center">ShawnCharles.com</h3>
       <br />
@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
@@ -93,9 +93,9 @@
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
-  </tr>
+  </tr> -->
 </table>
- -->
+
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
