@@ -20,7 +20,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+      <h3 align="center">My Portfolio</h3>
         <br>
         <a target="_blank" href="https://jaclynbrothers.netlify.app/">
             <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="Portfolio Layout"/>
