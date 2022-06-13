@@ -31,6 +31,8 @@
 
 - ⚡ Fun fact: When I am not programming, I enjoy being out in nature, listening to music, and watching NBA games
 
+<br>
+
 <h2 align="center">Latest Projects</h2>
 <table bordercolor="#66b2b2">
   
@@ -80,6 +82,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaclynbrothers&theme=highcontrast" alt="jaclynbrothers" />
 </p>
+
 <br>
 
 <h2 align="center">Languages and Tools</h2>
@@ -102,7 +105,6 @@
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"> -->
 </p>
-<!-- <br> -->
 
 <br>
 
