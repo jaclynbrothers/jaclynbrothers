@@ -33,43 +33,43 @@
 
 <h2 align="center">Latest Projects</h2>
 <table bordercolor="#66b2b2">
+  
   <tr>
-  <td width="50%" valign="top">
-    <h3 align="center">Leftover Ingredients App</h3>
-    <br>
-      <a target="_blank" href="https://jaclynbrothers.github.io/leftover-ingredients-app/">
-        <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" width="100%"  alt="Leftover Ingredients App">
-      </a>
-      <br>
-    
-      <p align="center">
-        <a href="https://github.com/jaclynbrothers/leftover-ingredients-app" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    <td width="50%" valign="top">
+      <h3 align="center">Leftover Ingredients App</h3>
+        <br>
+        <a target="_blank" href="https://jaclynbrothers.github.io/leftover-ingredients-app/">
+            <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" width="100%" alt="Leftover Ingredients App">
         </a>
-        <a href="https://jaclynbrothers.github.io/leftover-ingredients-app/" target="_blank">
-          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964"/>
-        </a>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find meals for your leftover ingredients. Type in your leftover ingredient to view recipes you can make! Each recipe contains the instructions along with a link to the corresponding YouTube video.
-        </p>
+        <br>
+        <p align="center">
+          
+  <a href="https://github.com/jaclynbrothers/leftover-ingredients-app" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://jaclynbrothers.github.io/leftover-ingredients-app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find meals for your leftover ingredients. Type in your leftover ingredient to view recipes you can make! Each recipe contains the instructions along with a link to the corresponding YouTube video.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
         <br>
-        <a target="_blank" href="https://jaclynbrothers.netlify.app/">
-            <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="Portfolio Layout"/>
+      <a target="_blank" href="https://jaclynbrothers.netlify.app/">
+            <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%"  alt="My Portfolio Layout"/>
         </a>
         <br>
-       
         <p align="center">
-          <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>  
-          <a href="https://jaclynbrothers.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964"/>
-          </a>
-          <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.
-          </p>
+          
+  <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://jaclynbrothers.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
     </td>
   </tr>
 </table>
