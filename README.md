@@ -33,8 +33,26 @@
 
 <h2 align="center">Latest Projects</h2>
 <table bordercolor="#66b2b2">
-  
   <tr>
+  <td width="50%" valign="top">
+    <h3 align="center">Leftover Ingredients App</h3>
+    <br>
+      <a target="_blank" href="https://jaclynbrothers.github.io/leftover-ingredients-app/">
+        <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" width="100%"  alt="Leftover Ingredients App">
+      </a>
+      <br>
+    
+      <p align="center">
+        <a href="https://github.com/jaclynbrothers/leftover-ingredients-app" target="_blank">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://jaclynbrothers.github.io/leftover-ingredients-app/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964"/>
+        </a>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find meals for your leftover ingredients. Type in your leftover ingredient to view recipes you can make! Each recipe contains the instructions along with a link to the corresponding YouTube video.
+        </p>
+    </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
         <br>
@@ -42,74 +60,18 @@
             <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="Portfolio Layout"/>
         </a>
         <br>
+       
         <p align="center">
-          
-  <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-  </a>  
-  <a href="https://jaclynbrothers.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964"/>
-  </a>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
+          <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+          </a>  
+          <a href="https://jaclynbrothers.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964"/>
+          </a>
+          <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.
+          </p>
     </td>
-    
-<!--     <td width="50%" valign="top">
-      <h3 align="center">Coming Soon</h3>
-        <br>
-      <a target="_blank" href="#">
-            <img src="#" width="100%"  alt="#">
-        </a>
-        <br>
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=4C5C96"/>
-  </a>
-      </p>
-        <p><strong></strong> Coming Soon</p>
-    </td> -->
   </tr>
-  
-<!--   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
-      <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
-        <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
-    </td>
-  </tr> -->
 </table>
 
 <br>
