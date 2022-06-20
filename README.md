@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - User can select a dog breed that generates a randomized name and description for that dog.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - User can select a dog breed that generates a randomized name, image, and description for that dog.</p>
     </td>
   </tr>
   
