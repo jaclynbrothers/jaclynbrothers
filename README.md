@@ -56,15 +56,54 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find meals for your leftover ingredients. Type in your leftover ingredient to view recipes you can make! Each recipe contains the instructions along with a link to the corresponding YouTube video.</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">Dog Generator</h3>
+        <br>
+      <a target="_blank" href="https://jaclynbrothers.github.io/dog-generator/">
+            <img src="https://media.giphy.com/media/51FbqdXjkmCAD4qbav/giphy.gif" width="100%"  alt="Dog Generator App"/>
+        </a>
+        <br>
+        <p align="center">
+          
+  <a href="https://github.com/jaclynbrothers/dog-generator" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://jaclynbrothers.github.io/dog-generator/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - User can select a dog breed that generates a randomized name and description for that dog.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Portfolio</h3>
+        <br>
+        <a target="_blank" href="https://jaclynbrothers.netlify.app/">
+            <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="My Portfolio Layout">
+        </a>
+        <br>
+        <p align="center">
+          
+  <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://jaclynbrothers.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
+    </td>
+<!--     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
         <br>
       <a target="_blank" href="https://jaclynbrothers.netlify.app/">
             <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%"  alt="My Portfolio Layout"/>
         </a>
         <br>
-        <p align="center">
+        <p align="center"> -->
           
-  <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
+<!--   <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://jaclynbrothers.netlify.app/" target="_blank">
@@ -72,7 +111,7 @@
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
