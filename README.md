@@ -77,6 +77,23 @@
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Prep and Step</h3>
+        <br>
+      <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
+
+https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947-86b0-e85e606722e1.mp4
+
+  <p align="center">
+  <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://jaclynbrothers.github.io/prep-and-step/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
+    </td>
+<td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
         <br>
         <a target="_blank" href="https://jaclynbrothers.netlify.app/">
@@ -94,24 +111,6 @@
       </p>
         <p><strong><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
     </td>
-<!--     <td width="50%" valign="top">
-      <h3 align="center">My Portfolio</h3>
-        <br>
-      <a target="_blank" href="https://jaclynbrothers.netlify.app/">
-            <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%"  alt="My Portfolio Layout"/>
-        </a>
-        <br>
-        <p align="center"> -->
-          
-<!--   <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://jaclynbrothers.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
-    </td> -->
   </tr>
 </table>
 
