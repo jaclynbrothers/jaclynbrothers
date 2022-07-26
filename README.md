@@ -27,7 +27,7 @@
 
 - 🤝 I’m looking to collaborate on open source projects
 
-- 👩‍💻 All of my projects are available at: [https://jaclynbrothers.netlify.app/](https://jaclynbrothers.netlify.app/)
+- 👩‍💻 My main projects are available at: [https://jaclynbrothers.netlify.app/](https://jaclynbrothers.netlify.app/)
 
 - ⚡ Fun fact: When I am not programming, I enjoy being out in nature, listening to music, and watching NBA games
 
