@@ -135,21 +135,21 @@ https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=0374c2&style=for-the-badge) -->
 
 <h3>Tools</h3>
 
+![VisualStudioCode](https://img.shields.io/badge/vscode-1f425f?logo=visualstudiocode&logoColor=0078d4&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-272b33?logo=npm&logoColor=cb3837&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-272b33?logo=JSON&logoColor=lightgrey&style=for-the-badge)
+![NPM](https://img.shields.io/badge/npm-272b33?logo=npm&logoColor=cb3837&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/vscode-1f425f?logo=visualstudiocode&logoColor=0078d4&style=for-the-badge)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   
 <!--     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
