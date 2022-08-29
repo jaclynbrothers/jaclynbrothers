@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on full stack web applications
 
-- 🌱 I’m interested in backend development, cloud systems, and software testing
+- 🌱 I’m interested in edtech projects, backend development, cloud systems, and software testing
 
 - 🤝 I’m looking to collaborate on open source projects
 
