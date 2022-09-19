@@ -35,6 +35,42 @@
 
 <h2 align="center">Latest Projects</h2>
 <table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Prep and Step</h3>
+        <br>
+      <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
+
+https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947-86b0-e85e606722e1.mp4
+
+  <p align="center">
+  <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://jaclynbrothers.github.io/prep-and-step/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">Artist Portfolio</h3>
+        <br>
+      <a target="_blank" href="https://fmsilver.netlify.app/"></a>    
+
+https://user-images.githubusercontent.com/102431119/191099089-7b668498-0919-4993-8203-871c8bce560d.mp4
+
+  <p align="center">
+  <a href="https://github.com/jaclynbrothers/artist-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://fmsilver.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This gallery website was created for the artist fmsilver to showcase their artwork made from recycled materials.</p>
+    </td>
+  </tr>
   
   <tr>
     <td width="50%" valign="top">
@@ -75,43 +111,6 @@
     </td>
   </tr>
   
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Prep and Step</h3>
-        <br>
-      <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
-
-https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947-86b0-e85e606722e1.mp4
-
-  <p align="center">
-  <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-  <a href="https://jaclynbrothers.github.io/prep-and-step/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-  </a>
-      </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
-    </td>
-<td width="50%" valign="top">
-      <h3 align="center">My Portfolio</h3>
-        <br>
-        <a target="_blank" href="https://jaclynbrothers.netlify.app/">
-            <img src="https://github.com/jaclynbrothers/portfolio/blob/main/images/portfolio.png" width="100%" alt="My Portfolio Layout">
-        </a>
-        <br>
-        <p align="center">
-          
-  <a href="https://github.com/jaclynbrothers/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-  <a href="https://jaclynbrothers.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-  </a>
-      </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - My portfolio website that describes consulting services, showcases latest projects, and provides ways to contact me.</p>
-    </td>
-  </tr>
 </table>
 
 <br>
