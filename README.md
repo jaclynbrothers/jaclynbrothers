@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/102431119/192626951-b9965780-b008-4563
         <br>
       <a target="_blank" href="https://fmsilver.netlify.app/"></a>    
 
-https://user-images.githubusercontent.com/102431119/191099089-7b668498-0919-4993-8203-871c8bce560d.mp4
+https://user-images.githubusercontent.com/102431119/192629874-fe8bb83b-fa0c-433d-9dcd-ad54a80c9491.mp4
 
   <p align="center">
   <a href="https://github.com/jaclynbrothers/artist-portfolio" target="_blank">
