@@ -37,21 +37,21 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Prep and Step</h3>
+      <h3 align="center">Squawk Space</h3>
         <br>
-      <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
+      <a target="_blank" href="https://squawk-space.onrender.com/"></a>    
 
-https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947-86b0-e85e606722e1.mp4
+https://user-images.githubusercontent.com/102431119/192607974-78624a29-8b20-4465-ba73-cdb9bd732d0c.mp4
 
   <p align="center">
-  <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
+  <a href="https://github.com/jaclynbrothers/squawk-space" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://jaclynbrothers.github.io/prep-and-step/" target="_blank">
+  <a href="https://squawk-space.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
+        <p><strong>Embedded JavaScript (EJS), CSS, Bootstrap, Node, Express, MongoDB, & Cloudinary</strong> - Squawk Space is a full stack web application for students, teachers, and speech therapists. Students practice their communication skills by creating posts, asking open-ended questions, and making supportive comments. Users also have the ability to like another user's post and delete comments.</p>
     </td>
 <td width="50%" valign="top">
       <h3 align="center">Artist Portfolio</h3>
@@ -68,7 +68,7 @@ https://user-images.githubusercontent.com/102431119/191099089-7b668498-0919-4993
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong><strong>HTML5, CSS3, & Javascript</strong> - This gallery website was created for the artist fmsilver to showcase their artwork made from recycled materials.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This gallery website was created for the artist fmsilver to showcase their artwork made from recycled materials.</p>
     </td>
   </tr>
   
@@ -92,22 +92,21 @@ https://user-images.githubusercontent.com/102431119/191099089-7b668498-0919-4993
         <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find meals for your leftover ingredients. Type in your leftover ingredient to view recipes you can make! Each recipe contains the instructions along with a link to the corresponding YouTube video.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Dog Generator</h3>
+<h3 align="center">Prep and Step</h3>
         <br>
-      <a target="_blank" href="https://jaclynbrothers.github.io/dog-generator/">
-            <img src="https://media.giphy.com/media/51FbqdXjkmCAD4qbav/giphy.gif" width="100%"  alt="Dog Generator App"/>
-        </a>
-        <br>
-        <p align="center">
-          
-  <a href="https://github.com/jaclynbrothers/dog-generator" target="_blank">
+      <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
+
+https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947-86b0-e85e606722e1.mp4
+
+  <p align="center">
+  <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://jaclynbrothers.github.io/dog-generator/" target="_blank">
+  </a>  
+  <a href="https://jaclynbrothers.github.io/prep-and-step/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - User can select a dog breed that generates a randomized name, image, and description for that dog.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
     </td>
   </tr>
   
