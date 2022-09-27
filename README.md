@@ -41,7 +41,7 @@
         <br>
       <a target="_blank" href="https://squawk-space.onrender.com/"></a>    
 
-https://user-images.githubusercontent.com/102431119/192607974-78624a29-8b20-4465-ba73-cdb9bd732d0c.mp4
+https://user-images.githubusercontent.com/102431119/192626951-b9965780-b008-4563-893d-89242066e0ca.mp4
 
   <p align="center">
   <a href="https://github.com/jaclynbrothers/squawk-space" target="_blank">
