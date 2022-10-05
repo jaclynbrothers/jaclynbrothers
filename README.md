@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaclyn Brothers</h1>
 <h3 align="center">A full stack software engineer from Arizona</h3>
 <p align="center">
-  <a target="_blank" href="https://jaclynbrothers.netlify.app/">
+  <a target="_blank" href="https://jaclynbrothers.com/">
     <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
   </a>
 <!--     <a target="_blank" href="#">
@@ -23,11 +23,11 @@
 
 - 🔭 I’m currently working on full stack web applications
 
-- 🌱 I’m interested in edtech projects, backend development, cloud systems, and software testing
+- 🌱 I’m interested in frontend and backend development, cloud systems, and software testing
 
 - 🤝 I’m looking to collaborate on open source projects
 
-- 👩‍💻 My main projects are available at: [https://jaclynbrothers.netlify.app/](https://jaclynbrothers.netlify.app/)
+- 👩‍💻 My main projects are available at: [jaclynbrothers.com](https://jaclynbrothers.com/)
 
 - ⚡ Fun fact: When I am not programming, I enjoy being out in nature, listening to music, and watching NBA games
 
@@ -51,8 +51,28 @@ https://user-images.githubusercontent.com/102431119/192626951-b9965780-b008-4563
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>Embedded JavaScript (EJS), CSS, Bootstrap, Node, Express, MongoDB, & Cloudinary</strong> - Squawk Space is a full stack web application for students, teachers, and speech therapists. Students practice their communication skills by creating posts, asking open-ended questions, and making supportive comments. Users also have the ability to like another user's post and delete comments.</p>
+        <p><strong>Embedded JavaScript (EJS), CSS, Bootstrap, Node, Express, MongoDB, Cloudinary, & Render</strong> - Squawk Space is a full stack web application for students, teachers, and speech therapists. Students practice their communication skills by creating posts, asking open-ended questions, and making supportive comments. Users also have the ability to like another user's post and delete comments.</p>
     </td>
+<td width="50%" valign="top">
+      <h3 align="center">Homework Bound</h3>
+        <br>
+      <a target="_blank" href="http://homeworkbound.herokuapp.com/"></a>    
+
+https://user-images.githubusercontent.com/102431119/194131205-e6c79715-1c71-4c89-b53c-c8ee6d2c7c36.mp4
+
+  <p align="center">
+  <a href="https://github.com/jaclynbrothers/homework-bound" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="http://homeworkbound.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>Embedded JavaScript (EJS), CSS, Node, Express, MongoDB & Heroku</strong> - This full stack application with MVC architecture was created for students in order to keep track of their classroom assignments and upcoming tests. The user can create, save, edit, and delete their assignment while setting an upcoming due date. Additional dependencies used: bcrypt, dotenv, express-session, mongoose, morgan, nodemon, passport, and validator.</p>
+    </td>
+  </tr>
+  
+  <tr>
 <td width="50%" valign="top">
       <h3 align="center">Artist Portfolio</h3>
         <br>
@@ -68,45 +88,24 @@ https://user-images.githubusercontent.com/102431119/192629874-fe8bb83b-fa0c-433d
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - This gallery website was created for the artist fmsilver to showcase their artwork made from recycled materials.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Leftover Ingredients App</h3>
-        <br>
-        <a target="_blank" href="https://jaclynbrothers.github.io/leftover-ingredients-app/">
-            <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" width="100%" alt="Leftover Ingredients App">
-        </a>
-        <br>
-        <p align="center">
-          
-  <a href="https://github.com/jaclynbrothers/leftover-ingredients-app" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-  <a href="https://jaclynbrothers.github.io/leftover-ingredients-app/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - This app helps you find meals for your leftover ingredients. Type in your leftover ingredient to view recipes you can make! Each recipe contains the instructions along with a link to the corresponding YouTube video.</p>
+        <p><strong>HTML5, CSS3, Javascript, & Netlify</strong> - This gallery website was created for the artist fmsilver to showcase their artwork made from recycled materials.</p>
     </td>
     <td width="50%" valign="top">
-<h3 align="center">Prep and Step</h3>
+<h3 align="center">Movie Recommendations API</h3>
         <br>
-      <a target="_blank" href="https://jaclynbrothers.github.io/prep-and-step/"></a>    
+      <a target="_blank" href="https://movie-recommendations-api.onrender.com/"></a>    
 
-https://user-images.githubusercontent.com/102431119/177065839-dc567614-75ca-4947-86b0-e85e606722e1.mp4
+https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33-b96b-07907c826d30.mp4
 
   <p align="center">
-  <a href="https://github.com/jaclynbrothers/prep-and-step" target="_blank">
+  <a href="https://github.com/jaclynbrothers/movie-recommendations-api" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://jaclynbrothers.github.io/prep-and-step/" target="_blank">
+  <a href="https://movie-recommendations-api.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - This application allows the user to select and name images to create a visual schedule of their student's or child's daily routine.</p>
+        <p><strong>Embedded JavaScript (EJS), CSS, Bootstrap, Node, Express, MongoDB, & Render.</strong> - This project allows the user to enter in a movie to recommend and its genre. Users can vote on movies that were recommended by clicking the like button and movie recommendations can be deleted.</p>
     </td>
   </tr>
   
