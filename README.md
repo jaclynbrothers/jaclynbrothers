@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/102431119/192626951-b9965780-b008-4563
   <a href="https://github.com/jaclynbrothers/squawk-space" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://squawk-space.onrender.com/" target="_blank">
+  <a href="https://squawkspace.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
