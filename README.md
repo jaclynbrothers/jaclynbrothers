@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/102431119/192626951-b9965780-b008-4563
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
-        <p><strong>Embedded JavaScript (EJS), CSS, Bootstrap, Node, Express, MongoDB, Cloudinary, & Render</strong> - Squawk Space is a full stack web application for students, teachers, and speech therapists. Students practice their communication skills by creating posts, asking open-ended questions, and making supportive comments. Users also have the ability to like another user's post and delete comments.</p>
+        <p><strong>Embedded JavaScript (EJS), CSS, Bootstrap, Node, Express, MongoDB, Cloudinary, & Railway</strong> - Squawk Space is a full stack web application for students, teachers, and speech therapists. Students practice their communication skills by creating posts, asking open-ended questions, and making supportive comments. Users also have the ability to like another user's post and delete comments.</p>
     </td>
 <td width="50%" valign="top">
       <h3 align="center">Homework Bound</h3>
