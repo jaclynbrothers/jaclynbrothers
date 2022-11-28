@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/102431119/192626951-b9965780-b008-4563
 <td width="50%" valign="top">
       <h3 align="center">Homework Bound</h3>
         <br>
-      <a target="_blank" href="http://homeworkbound.herokuapp.com/"></a>    
+      <a target="_blank" href="https://homeworkbound.up.railway.app/"></a>    
 
 https://user-images.githubusercontent.com/102431119/194131205-e6c79715-1c71-4c89-b53c-c8ee6d2c7c36.mp4
 
@@ -64,7 +64,7 @@ https://user-images.githubusercontent.com/102431119/194131205-e6c79715-1c71-4c89
   <a href="https://github.com/jaclynbrothers/homework-bound" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="http://homeworkbound.herokuapp.com/" target="_blank">
+  <a href="https://homeworkbound.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
